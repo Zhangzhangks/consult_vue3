@@ -1,0 +1,45 @@
+:root {
+  --cp-primary: #16c2a3;
+  --cp-plain: #eaf8f6;
+  --cp-orange: #fca21c;
+  --cp-text1: #121826;
+  --cp-text2: #3c3e42;
+  --cp-text3: #6f6f6f;
+  --cp-tag: #848484;
+  --cp-dark: #979797;
+  --cp-tip: #c3c3c5;
+  --cp-disable: #d9dbde;
+  --cp-line: #ededed;
+  --cp-bg: #f6f7f9;
+  --cp-price: #eb5757;
+  --van-primary-color: var(--cp-primary) !important;
+  --van-cell-vertical-padding: 14px !important;
+  --van-checkbox-size: 14px !important;
+  --van-button-normal-font-size: 16px !important;
+}
+
+#nprogress .bar {
+  background-color: var(--cp-primary) !important;
+}
+
+body {
+  font-size: 14px;
+  color: var(--cp-text1);
+}
+
+a {
+  color: var(--cp-text2);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}

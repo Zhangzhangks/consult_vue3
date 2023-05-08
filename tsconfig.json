@@ -1,0 +1,64 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@icons/*": [
+                "src/icons/*"
+            ],
+            "@Router/*": [
+                "src/Router/*"
+            ],
+            "@services/*": [
+                "src/services/*"
+            ],
+            "@Store/*": [
+                "src/Store/*"
+            ],
+            "@Style/*": [
+                "src/Style/*"
+            ],
+            "@type/*": [
+                "src/type/*"
+            ],
+            "@utils/*": [
+                "src/utils/*"
+            ],
+            "@views/*": [
+                "src/views/*"
+            ],
+            "@/*": [
+                "src/*"
+            ],
+            "@Layout/*": [
+                "src/views/Layout/*"
+            ],
+            "@article/*": [
+                "src/views/article/*"
+            ],
+            "@notify/*": [
+                "src/views/notify/*"
+            ],
+            "@user/*": [
+                "src/views/user/*"
+            ],
+            "@composables/*": [
+                "src/composables/*"
+            ],
+            "@enums/*": [
+                "src/enums/*"
+            ],
+            "@ConsultFast/*": [
+                "src/views/ConsultFast/*"
+            ],
+            "@room/*": [
+                "src/views/room/*"
+            ]
+        }
+    }
+}
